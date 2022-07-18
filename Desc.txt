@@ -1,0 +1,8 @@
+This project consists of making a website that contains 3 video games:
+This website is structured this way:
+-A nav bar that contains a logo and some other elements
+-A carousel in the middle of the page on which I want to place my 4 video games and a button (play) in each slide:
+1-memory game The objective is to collect the most pairs of cards.
+2-Speed text game:players complete typing tests of various texts as fast as possible.
+3-Xo game:Tic-tac-toe (American English). Noughts and crosses (Commonwealth English), or Xs and Os (Irish English), is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with an X or O.
+Finally, the footer of the web page contains some information and a contact form .
